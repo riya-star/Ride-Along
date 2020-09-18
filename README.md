@@ -1,5 +1,5 @@
 # Ride-Along
-<h1>A Car Pooling website</h1>
+## A Car Pooling website
 <h2>Here i've only made the homepage using HTML,CSS3 & Bootstrap4</h2>
 <h3>Sooner i will be developing this into a fully functional website :D </h3>
 
